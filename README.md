@@ -1,6 +1,6 @@
 # An Interactive Visualization of AI History
 
-This project explores the history of Artificial Intelligence from its conceptual beginnings to the modern era of generative models. The data was compiled and visualized using Palladio to reveal the geographic, temporal, and institutional networks that drove innovation.
+This project explores the history of Artificial Intelligence from its conceptual beginnings to the modern era of generative models. The data was compiled and visualized using Palladio to show the key institutions behind major breakthroughs, where these events happened, and how they unfold over time.
 
 ---
 
