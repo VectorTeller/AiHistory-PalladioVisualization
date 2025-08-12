@@ -8,7 +8,7 @@ This project explores the history of Artificial Intelligence from its conceptual
 
 | Map View | Graph View | Gallery View |
 | :---: | :---: | :---: |
-| <img src="map.png" width="300"> | <img src="graph.png" width="300"> | <img src="gallery.png" width="300"> |
+| <img src="dashboard_map_timeline.png" width="300"> | <img src="dashboard_graph.png" width="300"> | <img src="dashboard_gallery.png" width="300"> |
 
 
 ---
