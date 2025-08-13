@@ -1,6 +1,6 @@
 # An Interactive Visualization of AI History
 
-This project explores the history of Artificial Intelligence from its conceptual beginnings to the modern era of generative models. The data was compiled and visualized using Palladio to show the key institutions behind major breakthroughs, where these events happened, and how they unfold over time.
+This project explores the history of Artificial Intelligence from its conceptual beginnings to the modern era of generative models. The data was compiled and visualized using Palladio to show the key institutions behind major breakthroughs, where these events happened, and how progress unfolded over time.
 
 ---
 
@@ -10,19 +10,17 @@ This project explores the history of Artificial Intelligence from its conceptual
 | :---: | :---: | :---: |
 | <img src="images/dashboard_map_timeline.png" width="300"> | <img src="images/dashboard_graph.png" width="300"> | <img src="images/dashboard_gallery.png" width="300"> |
 
-
 ---
 
-## About the Data
+## Project Source and Data Files
 
-The dataset contains 22 major milestones in the history of AI. Each entry includes:
-*   The event name and a short subtitle.
-*   The year of the event.
-*   The location of the event.
-*   The primary institution or company responsible.
-*   Links to relevant Wikipedia articles.
+All files for this project are hosted in the official GitHub repository.
 
-**The raw data used for this project is in the file:** `data/HistoryAI.csv`
+**[Click here to visit the project repository](https://github.com/VectorTeller/AiHistory-PalladioVisualization)**
+
+The repository contains the two key files mentioned in the instructions below:
+*   `historyai.json`: The complete, saved Palladio project with all visualizations pre-built.
+*   `HistoryAI.csv`: The raw data file used to build the project.
 
 ---
 
@@ -30,21 +28,20 @@ The dataset contains 22 major milestones in the history of AI. Each entry includ
 
 This project was built using [Palladio](https://hdlab.stanford.edu/palladio/), a browser-based tool for visualizing historical data.
 
-**The project file is `data/historyai.json` in this repository.** This contains the data and all pre-built visualizations.
-
-1.  **Download the project file:** From the file list above, click on **`data/historyai.json`**, then click the "Download" button.
+1.  **Go to the project repository** (using the link in the section above) and download the **`historyai.json`** file from the `/data` folder.
 2.  Go to the [Palladio start page](https://hdlab.stanford.edu/palladio/).
-3.  Click the link that says **"Load an existing project (.json)"**.
+3.  Click the link that says **"Load an existing project (.json)"**. 
 4.  Select the `historyai.json` file you just downloaded from your computer.
 
-The complete, interactive dashboard will instantly appear in your browser, with all visualizations ready to explore.
+The complete, interactive dashboard will appear in your browser, with all visualizations ready to explore.
+
+---
 
 ## How to Build the Project from Scratch 
 
 If you want to build the project yourself using the raw data:
 
-1.  **Download the data file:** From the file list above, click on **`data/HistoryAI.csv`**, then click the "Download" button.
+1.  **Go to the project repository** and download the **`HistoryAI.csv`** file from the `/data` folder.
 2.  Go to the [Palladio start page](https://hdlab.stanford.edu/palladio/).
-3.  Under the section **"Create a new Palladio project,"** drag and drop your downloaded **`HistoryAI.csv`** file into the box that says "Load .csv or spreadsheet."
+3.  Under the section **"Create a new project,"** drag and drop your downloaded **`HistoryAI.csv`** file into the box that says "Load .csv or spreadsheet."
 
-The data will be loaded into the Table view, and you can then build your own Map, Graph, Timeline, and Gallery visualizations.
